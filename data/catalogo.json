@@ -1,0 +1,20 @@
+[
+    {
+        "titulo": "fritadeira",
+        "detalhe": "compre na amazon",
+        "link":"http://amazon.com.br",
+        "icone": "http://catalogo.achadinhus.com.br/ico/amazon.png"
+    },
+    {
+        "titulo": "geladeira",
+        "detalhe": "compre na magalu",
+        "link":"http://magalu.com.br",
+        "icone": "http://catalogo.achadinhus.com.br/ico/magalu.png"
+    },
+    {
+        "titulo": "bicicleta",
+        "detalhe": "compre no mercadolivre",
+        "link":"http://mercadolivre.com.br",
+        "icone": "http://catalogo.achadinhus.com.br/ico/mercadolivre.png"
+    }
+]
